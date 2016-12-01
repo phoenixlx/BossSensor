@@ -1,5 +1,6 @@
 # BossSensor
-Hide screen when boss is approaching.
+Hide screen when boss is approaching.  
+for more details:[deep learning enables you to Hide Screen when Your Boss is Approaching](http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/)
 
 ## Demo
 Boss stands up. He is approaching.
